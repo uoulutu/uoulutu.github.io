@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uoulutu.github.io/sitemap
+Sitemap: https://uoulutu.github.io/app/sitemap
+Sitemap: https://uoulutu.github.io/assets/sitemap
+Sitemap: https://uoulutu.github.io/css/sitemap
+Sitemap: https://uoulutu.github.io/includes/sitemap
+Sitemap: https://uoulutu.github.io/item/sitemap
+Sitemap: https://uoulutu.github.io/src/sitemap
